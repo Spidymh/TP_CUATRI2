@@ -290,7 +290,6 @@ public class WasState extends GameState<WasState, WasAction> {
 	@Override
 	public pieza getPiezaAt(int x, int y) {
 		return this.at(x,y);
-		
 	}
 	
     /**
